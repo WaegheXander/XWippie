@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Xander
-#### I am learning developer
+#### I am a learning developer
 Basketball / gamer. <br/>
 Creating my personal website.<br/>
 Learing about the internet and gitar ofc :)copy/paste and use in your profile.
