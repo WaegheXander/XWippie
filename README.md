@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ### Hi there 👋, my name is Xander
 #### I am learning developer
 Basketball / gamer. <br/>
