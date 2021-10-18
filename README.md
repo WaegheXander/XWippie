@@ -2,9 +2,9 @@
 
 ### Hi there 👋, my name is Xander
 #### I am learning developer
-Basketball / gamer.
-Creating my personal website.
-Learing about the internet and gitar ofc :)copy/paste and use in your profile.
+Basketball / gamer. <br/><br/>
+Creating my personal website.<br/>
+Learing about the internet and gitar ofc :)copy/paste and use in your profile.<br/>
 
 Skills: HTML / CSS / PY
 
